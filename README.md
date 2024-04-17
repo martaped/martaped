@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**martaped/martaped** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [Marta Pedriel]
 Data Scientist | Python Programmer | PowerBI| MySql| Streamlit| Google Cloud
 
